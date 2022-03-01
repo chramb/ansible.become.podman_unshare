@@ -2,7 +2,7 @@
 Because this plugin isn't part of a collection it needs to be installed manually.  
 There are few possible ways and locations it can be installed.
 
-By using [BECOME_PLUGIN_PATH](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#become-plugin-path) or `ANSIBLE_BECOME_PLUGIS` environment variable.
+By using [BECOME_PLUGIN_PATH](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#become-plugin-path) or `ANSIBLE_BECOME_PLUGINS` environment variable.
 
 ## As a single file
 ```
