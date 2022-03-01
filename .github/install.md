@@ -26,7 +26,7 @@ Clone it anywhere in your filesystem, for example `~/.ansible/plugins/become/`.
 git clone --depth 1 https://github.com/chramb/ansible.become.podman_unshare/edit/master/README.md \
      $HOME/.ansible/plugins/become/podman_unshare/
 ```
-then configure ansible.cfg to source plugin from chosen path by adding it to correct path.
+then configure `ansible.cfg` to source plugin from chosen path by adding it to correct path.
 ```ini
 # ansible.cfg
 [defaults]
